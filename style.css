@@ -1,0 +1,22 @@
+.header{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    background-color: bisque;
+    font-style: italic;
+}
+.UL{
+    text-align: center;
+}
+.introOats{
+    text-align: center;
+    font-style: italic;
+    background-color: beige;
+}
+.oatsIMG{
+    display: grid;
+    place-items: center;
+}
+.hyper{
+    text-align: center;
+}
