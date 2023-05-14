@@ -2,8 +2,21 @@
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-size: larger;
-    background-color: bisque;
+
     font-style: italic;
+}
+body{
+    background-color: antiquewhite;
+    background-image: url(./IMGHome/moroccan-flower.png);
+}
+.container{
+    text-align: center;
+}
+.ulHOME{
+    display: inline-block;
+    text-align: left;
+    padding: 5px 17px;
+    background-color: bisque;
 }
 .UL{
     text-align: center;
@@ -19,4 +32,12 @@
 }
 .hyper{
     text-align: center;
+}
+.ingreUL{
+    display: inline-block;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+a:hover {
+    color: rgb(64, 135, 194);
 }
