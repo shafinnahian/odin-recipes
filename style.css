@@ -40,7 +40,10 @@ body{
 }
 .Eminem img{
     float: right;
-    margin-left: 5px ;
+    margin-left: 2px ;
+}
+.spaghettIntro{
+    clear: boths;
 }
 a:hover {
     color: rgb(64, 135, 194);
