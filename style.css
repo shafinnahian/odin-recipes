@@ -6,7 +6,7 @@
     font-style: italic;
 }
 body{
-    background-color: antiquewhite;
+    background-color: bisque;
     background-image: url(./IMGHome/moroccan-flower.png);
 }
 .container{
@@ -37,6 +37,10 @@ body{
     display: inline-block;
     flex-wrap: wrap;
     flex-direction: row;
+}
+.Eminem img{
+    float: right;
+    margin-left: 5px ;
 }
 a:hover {
     color: rgb(64, 135, 194);
