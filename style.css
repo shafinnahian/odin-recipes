@@ -45,6 +45,24 @@ body{
 .spaghettIntro{
     clear: boths;
 }
+.deviIntroIMG{
+    float: right;
+    margin-left: 2px;
+}
+.deviIMGTwo{
+    float: right;
+}
+.deviIngP{
+    float: left;
+}
+.mustClear{
+    clear: both;
+}
+.devLastIMG{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
 a:hover {
     color: rgb(64, 135, 194);
 }
